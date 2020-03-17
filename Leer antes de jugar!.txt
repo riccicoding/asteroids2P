@@ -1,0 +1,25 @@
+Asteroids Multijugador-
+
+Cada jugador posee 3 vidas. Al perder los dos jugadores se mostrara quien gano.
+
+[[Teclas Jugador Azul]]
+
+I=Acelerar
+J=Rotar a la izquierda
+L=Rotar a la derecha
+
+
+[[Teclas Jugador Rojo]]
+
+W=Acelerar
+A=Rotar a la izquierda
+D=Rotar a la derecha
+
+Teclas Generales:
+
+ESC=PAUSA
+ENTER=ACEPTAR
+H=Reiniciar una vez terminada la partida
+
+[DESARROLLO]
+MATEO RICCI
